@@ -1,4 +1,4 @@
-export const API_KEY = "AIzaSyA6crBKIIcjw6WbG-jaobiswZXnpxYJ0T4";
+export const API_KEY = "AIzaSyAqN_GMztmKGXR5LO9SVA-gvK5yuciw9K8";
 export const API_URLS = {
     text: `https://generativelanguage.googleapis.com/v1/models/gemini-pro:generateContent?key=${API_KEY}`,
     vision: `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro-vision:generateText?key=${API_KEY}`
